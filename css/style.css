@@ -7,6 +7,8 @@
 }
 .navbar{
     background-color:rgba(37, 168, 127, 0.863);
+    position:fixed;
+    
 }
 .navbar-brand{
     font-size: 2rem;
@@ -15,8 +17,8 @@
 }
 .navbar-brand:hover{
     color: red;
-    /* border:1px solid red; */
-    /* border-radius: 50px; */
+    border:1px solid red;
+    border-radius: 50px;
     padding-left: 10px;
     padding-right: 10px;
     margin: 0%;
