@@ -7,7 +7,7 @@
 }
 .navbar{
     background-color:rgba(37, 168, 127, 0.863);
-    position:fixed;
+    /* position:fixed; */
     
 }
 .navbar-brand{
